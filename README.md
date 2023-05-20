@@ -1,4 +1,4 @@
-<img src=".github/preview.png" alt="layout do projeto Buscador de Jogos" /> 
+<img src="github/preview.png" alt="layout do projeto Buscador de Jogos" /> 
 
 # Buscador de Jogos 🎮
 
